@@ -46,7 +46,7 @@ I believe in writing clean code and continuous learning.
 - ✅ Simple PHP-based Online Store  
 - ✅ Booking System with clean UI and secure backend
 
-(*Add links later — I can help you with that too!*)
+
 
 ---
 
