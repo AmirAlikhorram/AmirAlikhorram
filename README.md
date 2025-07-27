@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/fefbf5d7-afe2-4a23-a896-45dad158354d)
 <h1 align="center">✨ Hi there! I'm AmirAli Khorram ✨</h1>
 
 <p align="center">
